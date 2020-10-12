@@ -69,8 +69,8 @@
     "zone.js": "^0.9.1"
   },
   "devDependencies": {
-    "@types/jest": "^24.0.13",
     "@types/chai": "^4.1.4",
+    "@types/jest": "^24.0.13",
     "@types/lodash": "^4.14.118",
     "@types/webpack-env": "^1.13.6",
     "angular2-template-loader": "^0.6.2",
@@ -78,11 +78,10 @@
     "chai": "^4.1.2",
     "chai-http": "^4.0.0",
     "cross-env": "^5.1.1",
+    "eslint": "^5.16.0",
     "graphql-tools": "^4.0.4",
+    "jest": "^26.2.2",
     "rimraf": "^2.6.2"
-  },
-  "peerDependencies": {
-    "eslint": "*"
   },
   "browserslist": {
     "development": [

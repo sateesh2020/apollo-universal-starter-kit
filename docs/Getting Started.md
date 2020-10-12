@@ -61,7 +61,7 @@ that all opened tabs are updated simultaneously.
 **NOTE**: Apollo Universal Starter Kit provides React, Angular and Vue frontends.
 
 To run Angular frontend execute:
-`yarn watch:android`
+`yarn watch:angular`
 
 To run Vue frontend execute:
 `yarn watch:vue`
@@ -182,7 +182,7 @@ keyboard.
 * On the **Hardware** menu, click **Erase all content and settings**.
 * Restart the application.
 
-[lerna]: https://lernajs.io/
+[lerna]: https://lerna.js.io/
 [http://localhost:3000/]: http://localhost:3000/
 [your android]: https://play.google.com/store/apps/details?id=host.exp.exponent
 [ios device]: https://itunes.apple.com/app/expo-client/id982107779?mt=8
